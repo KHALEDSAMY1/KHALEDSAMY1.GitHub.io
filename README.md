@@ -9,7 +9,10 @@
 
 ## Projects
 - **Magic 8-balls**:
+
  - A fun project sumulating a Magic 8-Balls to answer yes/no questions 
    "https://github.com/KHALEDSAMY1/Magic-8-Ball"
- - **To-Do-Tasks**:
+ 
+- **To-Do-Tasks**:
    - A project add or delete or view your tasks
+    "https://github.com/KHALEDSAMY1/to-do-task"
